@@ -1,6 +1,6 @@
 # Urban Econometrics
 
-Esta carpeta contendrá los notebooks de dos cursos cortos sobre métodos econométricos en economía urbana de la Maestría en Economía Urbana de la Universidad Torcuato Di Tella. El primer curso presenta una introducción a métodos de regresión en el contexto de aplicaciones de economía urbana. El segundo presenta una selección de temas dentro de metodologías de identificación de causalidad, con un énfasis en los métodos no-experimentales.
+Esta carpeta contendrá los notebooks de dos cursos cortos sobre métodos econométricos en economía urbana de la [Maestría en Economía Urbana de la Universidad Torcuato Di Tella](https://www.utdt.edu/listado_contenidos.php?id_item_menu=2051). El primer curso presenta una introducción a métodos de regresión en el contexto de aplicaciones de economía urbana. El segundo presenta una selección de temas dentro de metodologías de identificación de causalidad, con un énfasis en los métodos no-experimentales.
  
  Los notebooks son creados en google colaboratory de manera de minimizar requerimientos de instalación.
 
