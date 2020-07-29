@@ -12,3 +12,5 @@ Parte 1:
 4. [Regresión Múltiple](https://github.com/rpasquini/urban-econometrics/blob/master/OLS4_Regresion_Multiple.ipynb)
 5. [Modelos de Clasificación y aplicaciones al caso de elección residencial. ](https://github.com/rpasquini/urban-econometrics/blob/master/5_Modelos_de_Clasificacion.ipynb)
  
+Parte 2:
+1. [Experimentos Aleatorizados](https://github.com/rpasquini/urban-econometrics/blob/master/Experimentos_Aleatorizados.ipynb)
