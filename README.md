@@ -6,11 +6,13 @@ Esta carpeta contendrá los notebooks de dos cursos cortos sobre métodos econom
 
 Parte 1: 
 
-1. [Introducción a Regresión Simple y Precios de Departamentos en AMBA](https://github.com/rpasquini/urban-econometrics/blob/master/OLS_Departamentos_AMBA.ipynb)
-2. [Test de Hipótesis](https://github.com/rpasquini/urban-econometrics/blob/master/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)
+1. [Introducción a Regresión Simple y Precios Hedónicos de Departamentos en AMBA](https://github.com/rpasquini/urban-econometrics/blob/master/OLS_Departamentos_AMBA.ipynb)
+2. [Supuestos y Tests de Hipótesis](https://github.com/rpasquini/urban-econometrics/blob/master/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)
 3. [Transformaciones e Inclusión de variables categóricas como explicativas](https://github.com/rpasquini/urban-econometrics/blob/master/OLS_3_Transformaciones_Dummies_RegMultiple.ipynb)
 4. [Regresión Múltiple](https://github.com/rpasquini/urban-econometrics/blob/master/OLS4_Regresion_Multiple.ipynb)
-5. [Modelos de Clasificación y aplicaciones al caso de elección residencial. ](https://github.com/rpasquini/urban-econometrics/blob/master/5_Modelos_de_Clasificacion.ipynb)
+5. [Modelos de Clasificación y aplicaciones al caso de Elección Residencial. ](https://github.com/rpasquini/urban-econometrics/blob/master/5_Modelos_de_Clasificacion.ipynb)
  
 Parte 2:
 1. [Experimentos Aleatorizados](https://github.com/rpasquini/urban-econometrics/blob/master/Experimentos_Aleatorizados.ipynb)
+2. [Supuesto de Independencia Condicional, Matching y Propensity Score Matching](https://github.com/rpasquini/urban-econometrics/blob/master/CIA_y_Matching.ipynb)
+3. [Diferencias en Diferencias. Aplicación a los efectos COVID en alquileres](https://github.com/rpasquini/urban-econometrics/blob/master/Diferencias_en_Diferencias.ipynb)
