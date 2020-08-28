@@ -16,3 +16,5 @@ Parte 2:
 1. [Experimentos Aleatorizados](https://github.com/rpasquini/urban-econometrics/blob/master/Experimentos_Aleatorizados.ipynb)
 2. [Supuesto de Independencia Condicional, Matching y Propensity Score Matching](https://github.com/rpasquini/urban-econometrics/blob/master/CIA_y_Matching.ipynb)
 3. [Diferencias en Diferencias. Aplicación a los efectos COVID en alquileres](https://github.com/rpasquini/urban-econometrics/blob/master/Diferencias_en_Diferencias.ipynb)
+4. [Variables Instrumentales](https://github.com/rpasquini/urban-econometrics/blob/master/Instrumental_Variables.ipynb)
+5. [Diseño por Discontinuidad](https://github.com/rpasquini/urban-econometrics/blob/master/Regression_Discontinuity.ipynb)
