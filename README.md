@@ -11,6 +11,7 @@ Parte 1:
 3. [Transformaciones e Inclusión de variables categóricas como explicativas](https://github.com/rpasquini/urban-econometrics/blob/master/OLS_3_Transformaciones_Dummies_RegMultiple.ipynb)
 4. [Regresión Múltiple](https://github.com/rpasquini/urban-econometrics/blob/master/OLS4_Regresion_Multiple.ipynb)
 5. [Modelos de Clasificación y aplicaciones al caso de Elección Residencial. ](https://github.com/rpasquini/urban-econometrics/blob/master/5_Modelos_de_Clasificacion.ipynb)
+6. [Introducción a correlación espacial y regresión espacial](https://github.com/rpasquini/urban-econometrics/blob/master/Correlacion_espacial_y_Regresi%C3%B3n_espacial_intro.ipynb)
  
 Parte 2:
 1. [Experimentos Aleatorizados](https://github.com/rpasquini/urban-econometrics/blob/master/Experimentos_Aleatorizados.ipynb)
